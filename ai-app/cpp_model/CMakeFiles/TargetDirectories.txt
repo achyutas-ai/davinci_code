@@ -1,0 +1,3 @@
+D:/workspace/davinci_code/ai-app/cpp_model/CMakeFiles/model_runner.dir
+D:/workspace/davinci_code/ai-app/cpp_model/CMakeFiles/edit_cache.dir
+D:/workspace/davinci_code/ai-app/cpp_model/CMakeFiles/rebuild_cache.dir
